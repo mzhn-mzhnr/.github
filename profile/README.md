@@ -70,3 +70,12 @@ LLM (`krith/qwen2.5-14b-instruct:IQ4_XS`) генерирует итоговый 
 
 <br/>
 <img src="../images/rag.png">
+
+# Без них ничего бы не было <3
+
+<br/>
+<img src="../images/logo.svg">
+
+<br/>
+
+<img src="../images/logo.png">
