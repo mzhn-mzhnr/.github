@@ -51,4 +51,4 @@ LLM (`krith/qwen2.5-14b-instruct:IQ4_XS`) генерирует итоговый 
 
 ### 🖼️ RAG pipeline наглядно
 
-<img src="../images/rag.png">
+<img src="../images/rag2.png">
